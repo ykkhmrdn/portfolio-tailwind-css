@@ -22,6 +22,6 @@ Untuk menjalankan portfolio ini di mesin lokal Anda, ikuti langkah-langkah berik
 
 ## 📞 Kontak
 
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya.
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya ykkhmrdn@gmail.com.
 
 Terima kasih telah mengunjungi portfolio saya! 🎉🎉
