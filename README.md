@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Made with TailwindCSS">
-  <img src="https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify" alt="Deployed on Netlify">
 </p>
 
 Ini adalah portfolio yang dibuat menggunakan Tailwind CSS. Tailwind CSS adalah kerangka kerja CSS yang sangat disesuaikan yang memungkinkan Anda membangun desain kustom tanpa meninggalkan HTML Anda.
